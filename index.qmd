@@ -4,15 +4,15 @@ format: html
 editor: visual
 ---
 
-## Layla Nayfeh
+## **Layla Nayfeh**
 
 photo
 
-### [resume](https://github.com/laylanayfeh/laylanayfeh/blob/main/RESUME%20Layla%20Nayfeh%20(2).pdf)
+### [**resume**](https://github.com/laylanayfeh/laylanayfeh/blob/main/RESUME%20Layla%20Nayfeh%20(2).pdf)
 
 ### 
 
-### my writing
+### **my writing**
 
 ### **analysis**
 
