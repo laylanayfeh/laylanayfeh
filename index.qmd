@@ -8,10 +8,14 @@ editor: visual
 
 photo
 
-[Resume](https://github.com/laylanayfeh/laylanayfeh/blob/main/RESUME%20Layla%20Nayfeh%20(2).pdf)
+### [resume](https://github.com/laylanayfeh/laylanayfeh/blob/main/RESUME%20Layla%20Nayfeh%20(2).pdf)
 
-My work
+### 
 
-Github
+### my writing
 
-<https://laylanayfeh.github.io/laylanayfeh/index.html>
+### **analysis**
+
+#### contact me
+
+#### my github
