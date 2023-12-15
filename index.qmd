@@ -6,20 +6,30 @@ editor: visual
 
 ## **Layla Nayfeh**
 
-I'm a graduating journalism student at George Washington University. I also studied graphic design. I like to make work where writing and visuals meet to tell a story.
+#### Welcome! I'm Layla.
+
+##### I'm a graduating journalism student at George Washington University. I also studied graphic design. I like to make work where writing and visuals meet to tell a story.
 
 ![](headshot.jpg){width="284"}
 
-### [**resume**](https://laylanayfeh.github.io/laylanayfeh/resume.html)
+## [**my resume**](https://laylanayfeh.github.io/laylanayfeh/resume.html)
 
-### [**an analysis**](https://laylanayfeh.github.io/mapping/02_Interactive_Mapping_MAPVIEW.html)
+if you're interested, you can check out my CV.
 
-### [**my writing**](https://laylanayfeh.github.io/laylanayfeh/writing.html)
+## [**an analysis**](https://laylanayfeh.github.io/mapping/02_Interactive_Mapping_MAPVIEW.html)
 
-### [**more writing**](https://laylanayfeh.github.io/laylanayfeh/morewriting.html)
+this is an analysis I conducted in r- I compared income and age of counties in my home state, Massachusetts!
+
+## [**my writing**](https://laylanayfeh.github.io/laylanayfeh/writing.html)
+
+here's an article I wrote December of 2022. I talked to different D.C. food organizations about how they were dealing with inflated food prices and COVID aftermath.
+
+## [**more writing**](https://laylanayfeh.github.io/laylanayfeh/morewriting.html)
+
+this is another article I wrote. This one was in September 2022, and I wrote about a protest for the ban of assault weapons.
 
 #### 
 
-#### [my github](https://github.com/laylanayfeh)
+#### check out [my github](https://github.com/laylanayfeh)
 
-#### contact me! laylanayfeh\@gwu.edu
+#### or contact me! laylanayfeh\@gwu.edu
