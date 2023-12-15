@@ -16,7 +16,7 @@ editor: visual
 
 if you're interested, you can check out my CV.
 
-## [**an analysis**](https://laylanayfeh.github.io/mapping/02_Interactive_Mapping_MAPVIEW.html)
+## [**an analysis**](https://laylanayfeh.github.io/mapping/finalanalysis.html)
 
 this is an analysis I conducted in r- I compared income and age of counties in my home state, Massachusetts!
 
