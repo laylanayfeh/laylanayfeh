@@ -6,13 +6,13 @@ editor: visual
 
 ## **Layla Nayfeh**
 
-I'm Layla and I'm a graduating journalism student at George Washington University.
+I'm a graduating journalism student at George Washington University. I also studied graphic design. I like to make work where writing and visuals meet to tell a story.
 
 ![](headshot.jpg){width="284"}
 
 ### [**resume**](https://laylanayfeh.github.io/laylanayfeh/resume.html)
 
-### **an analysis**
+### [**an analysis**](https://laylanayfeh.github.io/mapping/02_Interactive_Mapping_MAPVIEW.html)
 
 ### [**my writing**](https://laylanayfeh.github.io/laylanayfeh/writing.html)
 
