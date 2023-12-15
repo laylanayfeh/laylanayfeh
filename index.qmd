@@ -6,16 +6,20 @@ editor: visual
 
 ## **Layla Nayfeh**
 
-photo
+I'm Layla and I'm a graduating journalism student at George Washington University.
 
-### [**resume**](https://github.com/laylanayfeh/laylanayfeh/blob/main/RESUME%20Layla%20Nayfeh%20(2).pdf)
+![](headshot.jpg){width="284"}
 
-### 
+## [**resume**](https://github.com/laylanayfeh/laylanayfeh/blob/main/RESUME%20Layla%20Nayfeh%20(2).pdf)
+
+### an analysis
 
 ### [**my writing**](https://laylanayfeh.github.io/laylanayfeh/writing.html)
 
-### **analysis**
+### **more writing**
 
-#### contact me
+### 
 
-#### my github
+#### contact me: laylanayfeh\@gwu.edu
+
+#### [my github](https://github.com/laylanayfeh)
