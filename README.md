@@ -1,6 +1,8 @@
 live website here:
 https://laylanayfeh.github.io/laylanayfeh
 
+p.s. my final analysis is in a different repository so heres the link to that https://laylanayfeh.github.io/mapping/finalanalysis.html
+
 <!--
 **laylanayfeh/laylanayfeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
