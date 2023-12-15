@@ -10,16 +10,16 @@ I'm Layla and I'm a graduating journalism student at George Washington Universit
 
 ![](headshot.jpg){width="284"}
 
-## [**resume**](https://github.com/laylanayfeh/laylanayfeh/blob/main/RESUME%20Layla%20Nayfeh%20(2).pdf)
+### [**resume**](https://github.com/laylanayfeh/laylanayfeh/blob/main/RESUME%20Layla%20Nayfeh%20(2).pdf)
 
-### an analysis
+### **an analysis**
 
 ### [**my writing**](https://laylanayfeh.github.io/laylanayfeh/writing.html)
 
-### **more writing**
+### [**more writing**](https://laylanayfeh.github.io/laylanayfeh/morewriting.html)
 
-### 
-
-#### contact me: laylanayfeh\@gwu.edu
+#### 
 
 #### [my github](https://github.com/laylanayfeh)
+
+#### contact me! laylanayfeh\@gwu.edu
